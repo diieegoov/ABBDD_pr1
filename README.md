@@ -10,7 +10,8 @@ CREATE DATABASE biblioteca;
 
 **Captura:**
 
-> 📷 *Añadir aquí una captura de la creación de la base de datos.*
+<img width="472" height="359" alt="image" src="https://github.com/user-attachments/assets/af172b28-2577-497f-94d9-bd8374ba8430" />
+
 
 ---
 
