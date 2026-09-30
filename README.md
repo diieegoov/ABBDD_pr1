@@ -38,7 +38,10 @@ TO usuario_biblio;
 
 **Captura:**
 
-> 📷 *Añadir aquí una captura.*
+<img width="584" height="379" alt="image" src="https://github.com/user-attachments/assets/2ee560f9-22aa-42e2-b2e0-e478c8eee5a9" />
+<img width="666" height="396" alt="image" src="https://github.com/user-attachments/assets/e72092f7-0d7d-4b22-be2e-acfb3522ac30" />
+
+
 
 ---
 
@@ -55,7 +58,8 @@ TO lectores;
 
 **Captura:**
 
-> 📷 *Añadir aquí una captura.*
+<img width="666" height="396" alt="image" src="https://github.com/user-attachments/assets/40020a5a-a311-48ca-bfcd-48f13731577d" />
+
 
 ---
 
@@ -67,7 +71,8 @@ GRANT lectores TO usuario_biblio;
 
 **Captura:**
 
-> 📷 *Añadir aquí una captura.*
+<img width="666" height="396" alt="image" src="https://github.com/user-attachments/assets/7b1043ab-8b32-426c-b8f0-383813401f4d" />
+
 
 ---
 
@@ -79,7 +84,8 @@ SELECT * FROM pg_roles;
 
 **Captura:**
 
-> 📷 *Añadir aquí una captura.*
+<img width="413" height="598" alt="image" src="https://github.com/user-attachments/assets/6bd40c1a-99e2-4641-b70f-b02394d6aedc" />
+
 
 ---
 
@@ -92,7 +98,8 @@ WITH PASSWORD 'password';
 
 **Captura:**
 
-> 📷 *Añadir aquí una captura.*
+<img width="431" height="393" alt="image" src="https://github.com/user-attachments/assets/d88cd462-3b1f-447d-8122-9f2c11c9255a" />
+
 
 ---
 
@@ -105,7 +112,8 @@ FROM usuario_biblio;
 
 **Captura:**
 
-> 📷 *Añadir aquí una captura.*
+<img width="628" height="406" alt="image" src="https://github.com/user-attachments/assets/991ee420-ec62-45e9-bda4-68c78cb33edb" />
+
 
 ---
 
@@ -148,7 +156,8 @@ CREATE TABLE prestamos (
 
 **Captura:**
 
-> 📷 *Añadir aquí una captura donde se vean las tres tablas creadas.*
+<img width="228" height="139" alt="image" src="https://github.com/user-attachments/assets/502c19f6-f793-4d9e-a125-a056633176f8" />
+
 
 ---
 
@@ -174,7 +183,11 @@ REFERENCES libros(id_libro);
 
 **Captura:**
 
-> 📷 *Añadir aquí una captura de las claves foráneas.*
+<img width="289" height="272" alt="image" src="https://github.com/user-attachments/assets/0c3bc8af-f252-4a2c-a8c1-6fca4662e2fe" />
+<img width="300" height="216" alt="image" src="https://github.com/user-attachments/assets/68080540-d72f-4a2a-96eb-4629104bd79f" />
+<img width="287" height="178" alt="image" src="https://github.com/user-attachments/assets/daf8126c-3ad4-45fe-8cdd-6376696ac24c" />
+
+
 
 ---
 
@@ -222,7 +235,12 @@ VALUES
 
 **Captura:**
 
-> 📷 *Añadir aquí una captura de los datos insertados.*
+<img width="638" height="590" alt="image" src="https://github.com/user-attachments/assets/8e2a1099-ba7a-4646-8366-0f68b03979fd" />
+<img width="656" height="615" alt="image" src="https://github.com/user-attachments/assets/81a82833-4c6d-49ba-8f62-84a2b7e4f1b4" />
+<img width="764" height="527" alt="image" src="https://github.com/user-attachments/assets/66ad29d3-1bde-41f8-b223-2ae916c22670" />
+
+
+
 
 ---
 
@@ -241,7 +259,8 @@ LEFT JOIN autores a
 
 **Captura:**
 
-> 📷 *Añadir aquí una captura del resultado.*
+<img width="565" height="634" alt="image" src="https://github.com/user-attachments/assets/dc399a41-4697-4406-9d6a-d4bd6ee9833c" />
+
 
 ---
 
@@ -258,7 +277,8 @@ WHERE fecha_devolucion IS NULL;
 
 **Captura:**
 
-> 📷 *Añadir aquí una captura del resultado.*
+<img width="540" height="483" alt="image" src="https://github.com/user-attachments/assets/c321ce6e-8674-478f-936a-29a60f793aac" />
+
 
 ---
 
@@ -277,7 +297,8 @@ HAVING COUNT(id_libro) > 0;
 
 **Captura:**
 
-> 📷 *Añadir aquí una captura del resultado.*
+<img width="520" height="629" alt="image" src="https://github.com/user-attachments/assets/c3cd949c-d66a-4228-aa5b-107106710737" />
+
 
 ---
 
@@ -292,7 +313,8 @@ FROM prestamos;
 
 **Captura:**
 
-> 📷 *Añadir aquí una captura del resultado.*
+<img width="470" height="434" alt="image" src="https://github.com/user-attachments/assets/03ea677c-f158-40bf-b835-10c7a2103d43" />
+
 
 ---
 
@@ -310,7 +332,8 @@ GROUP BY p.usuario_prestatario;
 
 **Captura:**
 
-> 📷 *Añadir aquí una captura del resultado.*
+<img width="481" height="508" alt="image" src="https://github.com/user-attachments/assets/b95345f8-d0dc-428e-8f1b-70b0fd2c6e59" />
+
 
 ---
 
@@ -326,7 +349,8 @@ WHERE id_prestamo = 1;
 
 **Captura:**
 
-> 📷 *Añadir aquí una captura del resultado.*
+<img width="766" height="84" alt="image" src="https://github.com/user-attachments/assets/58354296-943c-4ff7-9a74-23678b4e1fa6" />
+
 
 ---
 
@@ -360,7 +384,7 @@ Al utilizar `ON DELETE CASCADE`, los préstamos asociados al libro eliminado tam
 
 **Captura:**
 
-> 📷 *Añadir aquí una captura antes y/o después de eliminar el libro.*
+<img width="769" height="161" alt="image" src="https://github.com/user-attachments/assets/195ad73e-a9a2-4163-ab73-bacf53359f29" />
 
 ---
 
@@ -383,7 +407,7 @@ INNER JOIN autores
 
 **Captura:**
 
-> 📷 *Añadir aquí una captura de la vista creada.*
+<img width="1023" height="433" alt="image" src="https://github.com/user-attachments/assets/aac01f64-cc28-4b27-ae4f-f2d96a5a9848" />
 
 ---
 
@@ -397,7 +421,8 @@ TO usuario_biblio;
 
 **Captura:**
 
-> 📷 *Añadir aquí una captura.*
+<img width="952" height="433" alt="image" src="https://github.com/user-attachments/assets/e1bb2ea5-ef66-4cd2-a219-948ca415bc83" />
+
 
 ---
 
@@ -434,7 +459,8 @@ FROM libros_de_autor('George Orwell');
 
 **Captura:**
 
-> 📷 *Añadir aquí una captura del resultado de la función.*
+<img width="492" height="477" alt="image" src="https://github.com/user-attachments/assets/2e79a106-5334-4f1b-8b28-d5c6214aceb7" />
+
 
 ---
 
@@ -454,6 +480,7 @@ LIMIT 3;
 
 **Captura:**
 
-> 📷 *Añadir aquí una captura del resultado.*
+<img width="660" height="503" alt="image" src="https://github.com/user-attachments/assets/bf5ad6d4-7096-498c-92e5-76ef95b998c6" />
+
 
 ---
