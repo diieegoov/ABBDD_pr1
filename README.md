@@ -456,20 +456,3 @@ LIMIT 3;
 > 📷 *Añadir aquí una captura del resultado.*
 
 ---
-
-# 10. Conclusión
-
-En esta práctica se han trabajado diferentes aspectos de PostgreSQL:
-
-* Creación de bases de datos.
-* Creación y gestión de usuarios y roles.
-* Gestión de permisos.
-* Creación de tablas.
-* Claves primarias y foráneas.
-* Inserción y modificación de datos.
-* Consultas mediante `JOIN`.
-* Funciones de agregación.
-* Vistas.
-* Funciones en `PL/pgSQL`.
-* Restricciones `ON DELETE CASCADE`.
-* Consultas avanzadas.
